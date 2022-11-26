@@ -1,0 +1,104 @@
+{
+    "syllabus-9":[
+        {
+          "id": 1,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Initial Page",
+          "download": "assets/images/notes-9/syllabus-9/initial-page.pdf",
+          "view": "assets/images/notes-9/syllabus-9/initial-page.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        },
+        {
+          "id": 2,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-9, English Syllabus",
+          "download": "assets/images/notes-9/syllabus-9/english-syllabus-9.pdf",
+          "view": "assets/images/notes-9/syllabus-9/english-syllabus-9.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        },
+        {
+          "id": 3,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-9, Hindi Syllabus",
+          "download": "assets/images/notes-9/syllabus-9/hindi-9.pdf",
+          "view": "assets/images/notes-9/syllabus-9/hindi-9.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        },
+        {
+          "id": 4,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-9, Maths English medium Syllabus",
+          "download": "assets/images/notes-9/syllabus-9/maths-english-syllabus-9.pdf",
+          "view": "assets/images/notes-9/syllabus-9/maths-english-syllabus-9.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        },
+        {
+          "id": 5,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-9, Maths English medium Syllabus",
+          "download": "assets/images/notes-9/syllabus-9/maths-hindi-syllabus-9.pdf",
+          "view": "assets/images/notes-9/syllabus-9/maths-hindi-syllabus-9.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        },
+        {
+          "id": 6,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-9, Science Hindi medium Syllabus",
+          "download": "assets/images/notes-9/syllabus-9/science-hindi-syllabus-9.pdf",
+          "view": "assets/images/notes-9/syllabus-9/science-hindi-syllabus-9.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        },
+        {
+          "id": 7,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-9, Science English medium Syllabus",
+          "download": "assets/images/notes-9/syllabus-9/science-english-syllabus-9.pdf",
+          "view": "assets/images/notes-9/syllabus-9/science-english-syllabus-9.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        },
+        {
+          "id": 8,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-9, Sanskrit Syllabus",
+          "download": "assets/images/notes-9/syllabus-9/sanskrit-syllabus-9.pdf",
+          "view": "assets/images/notes-9/syllabus-9/sanskrit-syllabus-9.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        },
+        {
+          "id": 9,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-9, Social science Hindi Medium Syllabus",
+          "download": "assets/images/notes-9/syllabus-9/sst-hindi-syllabus-9.pdf",
+          "view": "assets/images/notes-9/syllabus-9/sst-hindi-syllabus-9.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        },
+        {
+          "id": 9,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-9, Social science  English Medium Syllabus",
+          "download": "assets/images/notes-9/syllabus-9/sst-english-syllabus-9.pdf",
+          "view": "assets/images/notes-9/syllabus-9/sst-english-syllabus-9.pdf",
+          "author": "Tushar",
+          "class": "class-9"
+        }
+      ]
+    }
